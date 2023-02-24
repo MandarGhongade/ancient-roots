@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final imageURL = "https://wallpaperaccess.com/ayurveda-hd";
+    final imageURL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghmpcXkDnYEWLZBIK2q7ejY-MoJPFpM85mk9_gQjaKA&s";
     return Drawer(
       child: ListView(
         padding: EdgeInsets.zero,
