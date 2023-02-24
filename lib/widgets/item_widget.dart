@@ -21,7 +21,7 @@ final Item item;
       title: Text(item.name),
       subtitle: Text(item.desc),
       trailing: Text(
-        item.price.toString()+" Rs / 100gm",
+        item.price.toString(),
         style: TextStyle(
           color: Colors.lightGreen,
           fontWeight: FontWeight.bold
